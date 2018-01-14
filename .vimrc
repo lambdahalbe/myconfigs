@@ -11,3 +11,4 @@ syntax on
 :autocmd FileType python map <F7> :w<CR>:!python3 -i %<CR>
 :autocmd FileType python map <F5> :w<CR>:!python3 %<CR>
 :let g:pymode_rope = 0
+
